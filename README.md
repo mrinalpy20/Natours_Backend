@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://lakshman-natours.herokuapp.com/"><img src="https://github.com/lgope/Natours/blob/master/public/img/logo-green-round.png" alt="Natours" width="200"></a>
+  <a><img src="https://github.com/lgope/Natours/blob/master/public/img/logo-green-round.png" alt="Natours" width="200"></a>
   <br>
   Natours
   <br>
@@ -8,20 +8,7 @@
 
 <h4 align="center">An awesome tour booking site built on top of <a href="https://nodejs.org/en/" target="_blank">NodeJS</a>.</h4>
 
- <p align="center">
- <a href="#deployed-version">Demo</a> •
-  <a href="#key-features">Key Features</a> •
-  <a href="#demonstration">Demonstration</a> •
-  <a href="#how-to-use">How To Use</a> •
-  <a href="#api-usage">API Usage</a> •
-  <a href="#deployment">Deployment</a> •
-  <a href="#build-with">Build With</a> •
-  <a href="#to-do">To-do</a> •
-  <a href="#installation">Installation</a> • 
-  <a href="#known-bugs">Known Bugs</a> • 
-  <a href="#future-updates">Future Updates</a> • 
-  <a href="#acknowledgement">Acknowledgement</a>
-</p>
+
 
 ## Key Features 📝
 
@@ -210,54 +197,4 @@ If you wish to play around with the code base in your local environment, do the 
 * Your app should be running just fine.
 ```
 
-#### Demo-`.env` file :
 
-![demo-env-file](https://github.com/lgope/Natours/assets/58518192/cf5b833f-2a48-48a1-aeb3-5ffea8967e33)
-
-## Installation 🛠️
-
-You can fork the app or you can git-clone the app into your local machine. Once done, please install all the
-dependencies by running
-
-```
-$ npm i
-Set your env variables
-$ npm run watch:js
-$ npm run build:js
-$ npm run dev (for development)
-$ npm run start:prod (for production)
-$ npm run debug (for debug)
-$ npm start
-Setting up ESLint and Prettier in VS Code 👇🏻
-$ npm i eslint prettier eslint-config-prettier eslint-plugin-prettier eslint-config-airbnb eslint-plugin-node
-eslint-plugin-import eslint-plugin-jsx-a11y  eslint-plugin-react --save-dev
-```
-
-## Contributing 💡
-
-Pull requests are welcome but please open an issue and discuss what you will do before 😊
-
-## Known Bugs 🚨
-
-Feel free to email me at lakshman.gope2@gmail.com if you run into any issues or have questions, ideas or concerns.
-Please enjoy and feel free to share your opinion, constructive criticism, or comments about my work. Thank you! 🙂
-
-## Future Updates 🪴
-
-- Enable PWA
-- Improve overall UX/UI and fix bugs
-- Featured Tours
-- Recently Viewed Tours
-- And More! There's always room for improvement!
-
-## License 📄
-
-This project is open-sourced under the [MIT license](https://opensource.org/licenses/MIT).
-
-## Deployed Version 🚀
-
-Live demo (Feel free to visit) 👉🏻 : https://lgope-natours.onrender.com/
-
-## Acknowledgement 🙏🏻
-
-- This project is part of the online course I've taken at Udemy. Thanks to Jonas Schmedtmann for creating this awesome course! Link to the course: [Node.js, Express, MongoDB & More: The Complete Bootcamp 2019](https://www.udemy.com/course/nodejs-express-mongodb-bootcamp/)
